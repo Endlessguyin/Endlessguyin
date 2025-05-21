@@ -15,7 +15,7 @@
   / A Proxy developd by Me, q8j, and wowdevco.  
   <br><br>
   <strong>The GLSeries</strong>  
-  / An unblocked games website with tons of games made with <a href="https://github.com/q8j-dev" target="_blank">q8j._!</a>
+  / An unblocked games website with tons of games made with <a href="https://github.com/q8j-dev" target="_blank">q8j._</a>!
   <br><br>
 <strong>
   <a href="https://github.com/Endlessguyin/gamedistribution-antiblock-improved" target="_blank" style="color: #add8e6;">
