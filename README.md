@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <h3 style="text-align: center; color: #ffffff; margin: 0;">
-    Hi, i own GLSeriesDev and SolarX Proxy. I like coding and making websites 4 fun!
+    Hi, i own GLSDev and SolarX Proxy. I like coding and making websites 4 fun!
   </h3>
 <br><br/>
 </div>
@@ -12,7 +12,7 @@
   <strong>SolarX Proxy</strong>  
   / A Proxy developd by Me, q8j, and wowdevco.  
   <br><br>
-  <strong>The GLSeries</strong>  
+  <strong>GLSDev</strong>  
   / An unblocked games website with tons of games made with <a href="https://github.com/q8j-dev" target="_blank">q8j._</a>!
   <br><br>
 <strong>
