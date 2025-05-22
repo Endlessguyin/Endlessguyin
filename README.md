@@ -10,7 +10,7 @@
 </div>
 <div align="center" style="background-color: #1E1E1E; padding: 20px; border-radius: 30px;">
   <strong>SolarX Proxy</strong>  
-  / A Proxy developd by Me, q8j, and wowdevco.  
+  / A Proxy developed by Me, q8j, and wowdevco.  
   <br><br>
   <strong>GLSDev</strong>  
   / An unblocked games website with tons of games made with <a href="https://github.com/q8j-dev" target="_blank">q8j._</a>!
